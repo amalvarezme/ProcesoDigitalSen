@@ -1,0 +1,10 @@
+Repositorio GCPDS: https://github.com/UN-GCPDS
+Repositorio proyecto BCI: https://bci-framework.readthedocs.io/en/latest/
+
+Drivers (repositorio): https://github.com/UN-GCPDS/openbci-stream
+Drivers (documentación): https://openbci-stream.readthedocs.io/en/latest/
+Framework (repositorio): https://github.com/UN-GCPDS/bci-framework
+Framework (documentación): https://bci-framework.readthedocs.io/en/latest/
+
+WiFi-Shield Hardware: https://github.com/OpenBCI/OpenBCI_Wifi_Shield
+WiFi-Shield Software: https://github.com/OpenBCI/OpenBCI_WIFI
