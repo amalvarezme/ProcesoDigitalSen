@@ -10,3 +10,5 @@ Para más información referente al proyeto EEG con OpenBCI ver:
 Repositorio proyecto BCI: https://bci-framework.readthedocs.io/en/latest/
 
 Repositorio GCPDS: https://github.com/UN-GCPDS
+
+Tensorflow 2 BCI: https://github.com/UN-GCPDS/python-gcpds.EEG_Tensorflow_models
